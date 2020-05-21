@@ -1,0 +1,90 @@
+@media screen and (max-width: 991px) and (min-width: 768px) { 
+    /* HEADER */
+    #site-navigation ul.desktop-menu li {
+        margin-right: 10px;
+    }
+    
+    #site-navigation ul li a,
+    #site-navigation ul li a:hover, 
+    #site-navigation ul li a:visited {
+        letter-spacing: 1px;
+        font-size: 16px;
+    }
+    
+    /* END HEADER */
+    
+    
+    /* WORK PAGE */
+    .work_column .image_content {
+        font-size: 12px;
+    }
+    
+    /* Magnify pop up for work_slider_popup styling */
+    .more_info {
+        font-size: 15px;
+    }
+    
+    .work_slider_popup .mfp-title {
+        font-size: 13px;
+    }
+    
+    .work_overview, .work_slider_popup .mfp-arrow-left {
+        left: 15px;
+    }
+    
+    .work_info,
+    .work_slider_popup .mfp-arrow-right,
+    .popup_close {
+        right: 15px;
+    }
+    
+    /* End Magnify pop up for work_slider_popup styling */
+    
+    /* END WORK PAGE */
+    
+    
+    /* COOKIE NOTICE CSS */
+    .cookie-notice-container {
+        text-align: center;
+    }
+    
+    /* END COOKIE NOTICE CSS */
+    
+    
+    /* SOCIAL PAGE */
+/*    .social_column,*/
+    .social_column_background_image {
+        flex: 0 0 25%;
+    }  
+    
+    /* INSTAGRAM PLUGIN STYLING */
+    #sb_instagram.sbi_col_5 #sbi_images .sbi_item {
+        width: 25%;
+    }
+    
+    /* END INSTAGRAM PLUGIN STYLING */    
+    /* END SOCIAL PAGE */
+    
+    
+    /* ABOUT PAGE */
+    .about_description {
+        padding-right: 15px;
+    }
+    
+    .author_image {
+        margin-top: 60px;
+    }
+    
+    /* END ABOUT PAGE */
+    
+     /* PRINT PAGE */
+    .column:nth-child(even) {
+        padding-right: 15px;
+    }
+    
+    .books-row {
+        justify-content: space-between;
+    }
+    
+    /* END PRINT PAGE */
+}
