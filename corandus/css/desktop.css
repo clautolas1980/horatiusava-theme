@@ -580,55 +580,6 @@ body.noscroll {
 /* END WORK - SINGLE - INFO PAGE */
 
 
-/* SOCIAL PAGE */
-/*.social_column {
-   flex: 0 0 20%;
-   position: relative;
-   padding: 15px;
-   cursor: pointer;
-}
-
-.social_column .image_content_wrapper {
-    opacity: 0;
-    position: absolute;
-    width: calc(100% - 30px);
-    height: calc(100% - 30px);
-    max-height: 150px;
-    max-width: 150px;
-    top: 15px;
-    left: 15px;
-}
-
-.social_column:hover .image_content_wrapper {
-    opacity: 1;
-    background-color: #000;
-    -webkit-transition: background-color 0.5s ease-out;
-    -moz-transition: background-color 0.5s ease-out;
-    -o-transition: background-color 0.5s ease-out;
-    transition: background-color 0.5s ease-out;
-}
-
-.social_column .image_content,
-.social_column .image_content a,
-.social_column .image_content a:hover {
-    opacity: 0;
-    position: absolute;
-    color: #fff;
-    bottom: 0;
-    left: 0;
-    padding: 15px;
-    font-size: 11px;
-    line-height: 1.3;
-    font-family: 'Roboto Mono', monospace;
-    font-weight: 500;
-    letter-spacing: 1.2px;
-    text-decoration: none;
-}
-
-.social_column:hover .image_content {
-    opacity: 1;
-}*/
-
 /* SOCIAL PAGE with larger flickr images */
 .social_column_background_image {
    flex: 0 0 20%;
